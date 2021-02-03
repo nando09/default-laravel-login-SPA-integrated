@@ -1,0 +1,5 @@
+## Laravel 8 Tutorial - API Authentication With Sanctum - TESTE
+https://www.youtube.com/watch?v=GwqYx2tIPUI
+
+## Authentication in Vue using Laravel Sanctum - TESTE
+https://www.youtube.com/watch?v=eeMtmkDZ72Q
